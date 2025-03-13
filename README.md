@@ -108,3 +108,10 @@ function LabelledInput({ label, placeholder, type }: LabelledInputType) {
 ## Step 10 - Layouts in sub routes
 
 ![alt text](./assets/image-17.png)
+
+## Step 11 - Merging routes
+
+![alt text](./assets/image-18.png)
+![alt text](./assets/image-19.png)
+
+## Step 12 - components directory
