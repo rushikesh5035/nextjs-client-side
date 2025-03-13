@@ -1,4 +1,21 @@
-# Table of Contents
+## Table of Contents
+
+## Table of Contents
+
+1. [Introduction to Next.js and Pre-requisites](#step-1---introduction-to-nextjs-and-pre-requisites)
+2. [SEO Optimization](#step-2---seo-optimization)
+3. [Understanding the Waterfalling Problem](#step-3---understanding-the-waterfalling-problem)
+4. [Next.js Offering](#step-4---nextjs-offering)
+5. [Bootstrapping a Simple Next.js App](#step-5---bootstrapping-a-simple-nextjs-app)
+6. [Understanding Routing in Next.js](#step-6---understanding-routing-in-nextjs)
+7. [Prettifying the Sign-In Page](#step-7---prettifying-the-sign-in-page)
+8. [Server-Side Rendering](#step-8---server-side-rendering)
+9. [Layouts](#step-9---layouts)
+10. [Layouts in Sub-Routes](#step-10---layouts-in-sub-routes)
+11. [Merging Routes](#step-11---merging-routes)
+12. [Components Directory](#step-12---components-directory)
+13. [Add a Button OnClick Handler](#step-13---add-a-button-onclick-handler)
+14. [Client and Server Components](#step-14---client-and-server-components)
 
 ---
 
