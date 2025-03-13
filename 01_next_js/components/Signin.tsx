@@ -1,4 +1,4 @@
-export default function Signin() {
+export function Signin() {
   return (
     <div className="h-screen flex justify-center flex-col">
       <div className="flex justify-center">
@@ -11,7 +11,10 @@ export default function Signin() {
               <div className="text-3xl font-extrabold">Sign in</div>
             </div>
             <div className="pt-2">
-              <LabelledInput label="Username" placeholder="rushi@gmail.com" />
+              <LabelledInput
+                label="Username"
+                placeholder="harkirat@gmail.com"
+              />
               <LabelledInput
                 label="Password"
                 type={"password"}
