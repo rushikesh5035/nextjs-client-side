@@ -94,3 +94,9 @@ function LabelledInput({ label, placeholder, type }: LabelledInputType) {
   );
 }
 ```
+
+## Step 8 - Server side rendering
+
+![alt text](./assets/image-13.png)
+
+## Step 9 - Layouts
