@@ -100,3 +100,11 @@ function LabelledInput({ label, placeholder, type }: LabelledInputType) {
 ![alt text](./assets/image-13.png)
 
 ## Step 9 - Layouts
+
+![alt text](./assets/image-14.png)
+![alt text](./assets/image-15.png)
+![alt text](./assets/image-16.png)
+
+## Step 10 - Layouts in sub routes
+
+![alt text](./assets/image-17.png)
