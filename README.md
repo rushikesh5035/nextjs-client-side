@@ -212,3 +212,8 @@ export default function Signin() {
 ![alt text](./assets/image-21.png)
 
 #### What do you think is happening here? Let’s explore in the next slide
+
+## Step 14 - Client and server components
+
+![alt text](./assets/image-22.png)
+![alt text](./assets/image-23.png)
