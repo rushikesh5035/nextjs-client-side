@@ -190,3 +190,25 @@ export default function Signin() {
   return <SigninComponent />;
 }
 ```
+
+## Step 13 - Add a button onclick handler
+
+#### Now try adding a onclick handler to the button on the signin page
+
+```typescript
+<button
+  onClick={() => {
+    console.log("User clicked on signin");
+  }}
+  type="button"
+  className="mt-8 w-full text-white bg-gray-800 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2"
+>
+  Sign in
+</button>
+```
+
+#### You will notice an error when you open the page
+
+![alt text](./assets/image-21.png)
+
+#### What do you think is happening here? Let’s explore in the next slide
